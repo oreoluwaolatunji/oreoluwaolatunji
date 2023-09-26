@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, SQL, Excel and Power BI
 - 💞️ I’m looking to collaborate on various projects that require the tools mentioned above
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/oreoluwaolatunji24)
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/oreoluwaolatunji24)!
 
 
 
